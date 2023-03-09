@@ -2,7 +2,7 @@ import cohere
 import numpy as np
 import matplotlib.pyplot as plt
 
-co = cohere.Client("COHERE_API_KEY")
+co = cohere.Client("8ehslKCyyWOzyjECVCOSUoljroS6jPzFRGkNiJuE")
 
 # get the embeddings
 phrases = ["Red", "Blood", "Sea"]
